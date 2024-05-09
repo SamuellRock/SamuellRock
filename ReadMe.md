@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Samuel+Elias;I+am+from+Niterói,+RJ+-+BRASIL;I+study+Information+Systems+at+UnilaSalle-RJ;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Samuel+Elias;I+am+from+Niterói,+RJ+-+BRASIL;I+study+Information+Systems+at+UnilaSalle-RJ;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SamuellRock&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Samuel Elias Rock github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuellRock&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
